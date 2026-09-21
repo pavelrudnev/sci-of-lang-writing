@@ -1,0 +1,357 @@
+---
+author: 
+  name: Pavel Rudnev
+  affiliation: HSE University
+  email: prudnev@hse.ru
+title: Introduction to the science of language
+subtitle: Writing
+format:
+  revealjs: 
+    theme: [default, custom.scss]
+    chalkboard: true
+slide-level: 2
+bibliography: ../teaching.bib
+lang: en-GB
+rights: CC-by
+---
+
+# Background
+
+## Last time
+
+The sound side of things:
+
+-   phonetics
+    -   articulatory phonetics
+    -   acoustic phonetics
+    -   auditory phonetics
+-   phonology
+
+## Today
+
+The visual side of things:
+
+-   sign languages (student presentation)
+-   writing and its basic principles
+
+Putting it all together:
+
+-   sound/sign, writing, and language technology
+
+# Sign languages
+
+# Writing
+
+## Definitions
+
+### Writing
+
+A system of recording language by means of visual or tactile marks.
+
+-   why visual?
+-   why tactile?
+
+------------------------------------------------------------------------
+
+-   **writing system**
+    -   writing system of individual language
+    -   abstract type of writing system
+-   **script**: graphic form of units within writing system
+    -   ‘Over the course of its history, the Turkish language has used the Arabic and the Latin script’
+
+------------------------------------------------------------------------
+
+-   **orthography/spelling**: standardised conventions of particular language-specific writing system
+-   **alphabet**:
+    -   inventory of basic signs of phonological writing system
+    -   inventory of basic signs of *any* writing system in general
+
+## Writing and speech
+
+Writing is always secondary to speech.
+
+-   overwhelmingly many languages have no consistent/standardised way of writing them down
+-   no ‘writing-only’ languages with no sound/sign form
+-   written form can change without significantly affecting language
+-   written form can remain the same but the language itself can change substantially
+
+. . .
+
+In fact, writing is a (legacy) language technology of sorts!
+
+## A few contrasts
+
+Do you agree with the following differences? Feel free to disagree!
+
+::: {style="font-size: smaller"}
+|      speech       |     writing      |
+|:-----------------:|:----------------:|
+|    continuous     |     discrete     |
+|    time-bound     |     timeless     |
+|   context-bound   |    autonomous    |
+|      audible      |     visible      |
+| produced by voice | produced by hand |
+|                   |                  |
+:::
+
+Can you think of more differences?
+
+## What does writing record?
+
+Writing records **utterances**.
+
+-   which are combinations of **meaning** and **sound** expressing that meaning.
+
+Which of these two aspect should be written down?
+
+-   primary focus on meaning?
+-   primary focus on sound?
+
+## Writing down sounds
+
+::: incremental
+What are the pros?
+
+-   clear instructions as to how a string is to be pronounced
+
+What are the cons?
+
+-   Where do we even start?..
+:::
+
+## Writing down sounds: the cons
+
+-   too much variation across languages and within languages for this to be plausible
+    -   /pɑ(ː)t/ is the UK pronunciation of *part* and the US pronunciation of *pot*
+    -   /ɡɑ(ː)d/ is the UK pronunciation of *guard* and the US pronunciation of *god*
+    -   the *t*-like sound in the word *bottle* can in fact be realised in several ways
+
+Punchline: one must not go too far, since the words must ideally be recognisable for outsiders, too.
+
+## Writing down meaning/thoughts/ideas
+
+::: incremental
+What are the pros?
+
+-   most of the meanings could be made easily recognisable, thus facilitating learning
+
+What are the cons?
+
+-   Again, …
+:::
+
+## Writing down meaning: the cons
+
+-   with the average vocabulary of an average adult speaker of roughly 40,000 words, that would entail learning 40,000 distinct symbols
+-   additional signs for writing down grammatically relevant information (present/past/future tense; masculine/feminine/neuter gender *etc.*)
+
+Punchline: one must not go too far, since the inventory of symbols should still be manageable
+
+::: notes
+In other words, writing ‘pay this fine or go to jail’ might work when using a concatenation, or sequence, of 7 picture-like symbols (think emoji!), using the same method to record ‘if you had paid this fine, you wouldn't have gone to jail’ is already much trickier.
+:::
+
+## Writing down words
+
+So-called **logographic** writing systems
+
+-   Egyptian hieroglyphs
+-   Chinese/Japanese *kana* hieroglyphs
+    -   [山]{lang="zh"} *shān* ‘mountain’
+    -   [木]{lang="zh"} *mù* ‘tree’
+
+## Writing down rebuses
+
+-   [木]{lang="zh"} *mù* ‘tree’ + [氵]{lang="zh"} ‘water’ → [沐]{lang="zh"} *mù* ‘wash oneself’
+-   *cu, 4u, 2u* and many others in English
+    -   definitely not an innovation, goes back at least to Sumerian, Akkadian/Babylonian, Hittite in Mesopotamia
+        -   written using **cuneiform** (check out [**this page**](https://www.britishmuseum.org/blog/how-write-cuneiform) for some info on cuneiform, and a video tutorial)
+
+## Writing down different sound units {.allowframebreaks}
+
+-   logographic systems
+-   phonetic/phonological systems
+    -   writing smallest sound segments
+    -   writing syllables
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center;"}
+![Commonalities between Greek, Latin and Cyrillic alphabets](https://bylinina.github.io/ling_course/_images/alphabet_diagram.jpg){width="50%"}
+:::
+
+## What do alphabets record?
+
+-   vowel sounds
+    -   vowel length
+    -   fronting (e.g. Estonian)
+        -   *a -- ä*; *o -- ö*; *u -- ü*;
+    -   nasality (e.g. Portuguese)
+        -   *a -- ã*; *au -- ão/am*;
+-   consonant sounds
+
+## Syllabaries
+
+Japanese uses two distinct syllabaries, the Hiragana and the Katakana, alongside the ‘Chinese’ *kana* hieroglyphs.
+
+::::: columns
+::: {.column width="45%"}
+![Hiragana, from [KuwashiiJapanese.Com](https://kuwashiijapanese.com/2017/01/08/writing-system-hiragana/)](https://kuwashiijapanese.com/wp-content/uploads/2017/01/hiragana_chart2.png?w=1326&h=802){width="95%"}
+:::
+
+::: {.column width="45%"}
+![Katakana, from [KuwashiiJapanese.Com](https://kuwashiijapanese.com/2017/01/08/writing-system-katakana/)](https://kuwashiijapanese.com/wp-content/uploads/2017/01/768px-table_katakana-svg.png){width="95%"}
+:::
+:::::
+
+## Korean writing
+
+A curious hybrid of an alphabetic and a syllabic writing system.
+
+![Hangul, from [Easy Korean](http://easykorean.edsoftapps.com/learn-structure-of-hangul/)](https://bylinina.github.io/ling_course/_images/hangul.jpg){width="45%"}
+
+## Abjad
+
+Only the consonants are recorded
+
+::: incremental
+-   Th clv(r) snk dsp(r)d nt hl n th grnd
+    -   The clever snake disappeared into a hole in the ground.
+:::
+
+------------------------------------------------------------------------
+
+::: {style="text-align: center;"}
+![Universal Declaration of Human Rights in Arabic](https://bylinina.github.io/ling_course/_images/arabic.png){width="70%"}
+:::
+
+. . .
+
+::: {style="text-align: center;"}
+![Universal Declaration of Human Rights in Hebrew](https://bylinina.github.io/ling_course/_images/hebrew.png)
+:::
+
+## Abugida
+
+Basic characters denote consonants followed by one dedicated vowel, other vowels being denoted by additional signs.
+
+::: {style="text-align: center;"}
+![Universal Declaration of Human Rights in Tibetan](https://bylinina.github.io/ling_course/_images/tibetan.png){width="90%"}
+:::
+
+## Writing, lineage, and culture
+
+Closely related languages sometimes share a writing system
+
+-   most of the European languages, for instance, use the Latin alphabet, with some adjustments here and there.
+
+However, that is by far not always the case.
+
+------------------------------------------------------------------------
+
+-   Germanic
+    -   German vs. Yiddish
+-   Romance
+    -   Romanian; Ladino
+-   Slavonic
+    -   Russian, Polish
+-   Semitic
+    -   Hebrew, Arabic, Amharic, Maltese
+
+## German and Yiddish
+
+## Romance
+
+### Romanian old and new
+
+### Ladino
+
+## Slavonic
+
+### Russian in Cyrillic and Arabic script
+
+## Semitic languages
+
+## Summary
+
+-   **Logographic** writing systems focus on *words* (Chinese, Japanese hieroglyphs)
+-   **Syllabaries** encode syllables (Japanese, Korean, Amharic, Hindi, Tibetan, …)
+-   **Alphabets** encode individual sounds (English, Russian, Armenian, Greek, …)
+-   a lot of halfway, in-between systems (Arabic, Hebrew etc.)
+
+```{=html}
+<!--
+
+# Sound, sign, writing, and language technology #
+
+## Range of options ##
+
+  * speech analysis/output
+  * text analysis/output
+
+## Speech technology ##
+
+  * **A**utomatic **S**peech **R**ecognition (ASR)
+      * sound as input, text as output
+  * **T**ext-**t**o-**S**peech (TTS)
+
+## Text-based tech ##
+
+  * text summarisation
+  * question answering
+  * machine translation
+  * …
+  
+## Speech vs. text: the ratio ##
+
+Current language technology is predominantly text-based. Why?
+
+  * large quantities of data used to train langtech systems are collections of texts
+  * written language is easier for computational modelling
+      * it's discrete, segmented and neat, as opposed to the continuous non-segmented chaotic mess that is spoken language
+
+## Text-based langtech: potential pitfalls ##
+
+No way to recover information that writing does not convey:
+
+  * intonation
+  * general tone of voice
+  * personal characteristics of speakers
+  * emotion
+  
+  . . .
+  
+But also
+
+  * words that are written identically but are pronounced differently
+      * either for lexical reasons (*bow* being pronounced as [bəʊ] or [bɑʊ])
+      * or for grammatical reasons (*read* being pronounced as [riːd] or [rɛd], depending on the grammatical environment)
+
+## Beyond ASR/TTS: End-to-end sound i/o systems? ##
+
+  * [audio classification](https://huggingface.co/tasks/audio-classification)
+  * [Whisper](https://huggingface.co/spaces/sanchit-gandhi/whisper-large-v2) can directly translate to English from sound input with no text mediation
+  * [HuBERT](https://arxiv.org/abs/2106.07447): self-supervised speech representation learning by masked prediction of hidden units
+  * [SeamlessM4T](https://huggingface.co/spaces/facebook/seamless_m4t)
+  
+## More challenges? ##
+
+  * linguistic diversity
+      * accents
+          * regional accents
+          * foreign accents
+      * limited number of languages
+
+## What's the deal with accents? ##
+
+Let's briefly consider **merged vowels/vowel mergers** in different varieties of English.
+
+  * *cot--caught* merger
+  * *trap--bath* merger
+
+## Acknowledgement ##
+
+Thanks to Lisa Bylinina for making her excellent teaching materials publicly available.
+
+-->
+```
