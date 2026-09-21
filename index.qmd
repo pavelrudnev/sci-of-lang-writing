@@ -31,14 +31,16 @@ The sound side of things:
 
 The visual side of things:
 
--   sign languages (student presentation)
--   writing and its basic principles
+- writing and its basic principles
+- writing systems
 
-Putting it all together:
+<!-- Putting it all together:
 
 -   sound/sign, writing, and language technology
 
 # Sign languages
+
+-->
 
 # Writing
 
@@ -258,19 +260,63 @@ However, that is by far not always the case.
 -   Semitic
     -   Hebrew, Arabic, Amharic, Maltese
 
-## German and Yiddish
-
 ## Romance
 
 ### Romanian old and new
 
-### Ladino
+::: {.panel-tabset}
+
+### Contemporary Romanian
+
+::: {style="font-size: smaller"}
+Tatăl nostru, Care ești 
+în ceruri, Sfinţească-se numele 
+Tău, Vie împărăţia Ta, Facă-se voia Ta,
+Precum în cer aşa şi pe pământ.
+Pâinea noastră cea de toate zilele
+Dă-ne-o nouă astăzi. Şi ne iartă nouă 
+greşelile noastre, Precum şi noi 
+iertăm greşiţilor noştri. Şi 
+nu ne duce pe noi în ispită, Ci ne 
+izbăveşte de cel rău.
+:::
+
+### 19th-century Romanian
+
+::: {style="text-align: center;"}
+![1786 Lord's Prayer](https://upload.wikimedia.org/wikipedia/commons/1/15/Tatal_Nostru_Acathist_1786.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original){ width=40% }
+:::
+
+:::
+
+## Romance: Ladino
+
+::: {.panel-tabset}
+
+### Ladino (Hebrew script)
+
+טודוס לוס אומאנוס נאסין ליבריס אי איגואליס אין דיניידאד אי דיריטוס אי, קומו איסטאן איקיפאדוס די ראזון אי קונסאינסיה, דיבין קומפורטארסין קון אירמאנדאד לוס אונוס קון לוס אוטרוס.
+
+### Ladino (Romanised version)
+
+Todos los umanos nasen libres i iguales en dinyidad i diritos i, komo estan ekipados de razon i
+konsensia, deven komportarsen kon ermandad los unos kon los otros.
+
+:::
 
 ## Slavonic
 
-### Russian in Cyrillic and Arabic script
+::: {.panel-tabset}
 
-## Semitic languages
+### Russian in Arabic script
+
+![](https://sun9-28.vkuserphoto.ru/s/v1/ig2/U6OZHxTD9MF8VcAXBeG0L7D0AOmT3cvKtGJ_XlMQPzZXilNq9M61Psn3cyAUeuz4RQfuPp3_31GHe_xZGKy99oZh.jpg?quality=95&as=32x20,48x30,72x45,108x67,160x100,240x149,360x224,480x299,540x336,640x399,700x436&from=bu&cs=700x0)
+
+### Same text in Cyrillic
+
+Прарок мувил: Ужо йа из сего сьвета зийду, тилко вам йеден дастамент адказуйу; посьле мене, майе тевариства, не разлучайцесе, у адном мейсцу пац вахтав немаз кланийцисе.
+
+:::
 
 ## Summary
 
@@ -278,6 +324,61 @@ However, that is by far not always the case.
 -   **Syllabaries** encode syllables (Japanese, Korean, Amharic, Hindi, Tibetan, …)
 -   **Alphabets** encode individual sounds (English, Russian, Armenian, Greek, …)
 -   a lot of halfway, in-between systems (Arabic, Hebrew etc.)
+
+# Overtime
+
+## Articulation test
+
+::: {.notes}
+A child gradually acquires the sounds of their native language — some earlier, others later. Children who have difficulties mastering certain sounds receive help from speech therapists. To assess how well a child has acquired the phonetic system, speech therapists use articulation tests. In these tests, the child is asked to name pictures, thus collecting examples of their pronunciation of all the language’s sounds.
+:::
+
+The results of an articulation test of a Canadian French-speaking child with defective articulation compared with the literary (standard) pronunciation of these words are as follows:
+
+
+
+## {.scrollable}
+
+::: {style="font-size: smaller"}
+| Word      | Literary Pronunciation | Child's Pronunciation | Translation |
+|-----------|-----------------------|----------------------|-------------|
+| pomme     | [pɔm]                 | [bɔm]                | apple       |
+| tête      | [tɛt]                 | [dɛt]                | head        |
+| soupe     | [sup]                 | [xup]                | soup        |
+| queue     | [kœ]                  | [gœ]                 | tail        |
+| phoque    | [fɔk]                 | [bɔk]                | seal        |
+| princesse | [pʁɛ̃sɛs]             | [bɛ̃xɛx]              | princess    |
+| rêve      | [ʁɛv]                 | [ɣɛɣ]                | dream       |
+| neige     | [nɛʒ]                 | [nɛɣ]                | snow        |
+| vache     | [vaʃ]                 | [bax]                | cow         |
+| mouffette | [mufɛt]               | [mubɛt]               | skunk       |
+| plume     | [plym]                | [bym]                | feather     |
+| fraise    | [fʁɛz]                | [bɛɣ]                | strawberry  |
+| chien     | [ʃjɛ̃]                | [xɛ̃]                | dog         |
+| gorille   | [gɔʁij]               | [gɔɣij]               | gorilla     |
+| tomate    | [tɔmat]               | [dɔmat]               | tomato      |
+| bleu      | [blœ]                 | [bœ]                 | blue        |
+| livre     | [livʁ]                | [jiɣ]                | book        |
+| dire      | [dziʁ]                | [ɣiɣ]                | to say      |
+| donner    | [done]                | [done]               | to give     |
+| cochon    | [koʃɔ̃]               | [goxɔ̃]               | pig         |
+| cadeau    | [kado]                | [gado]               | gift        |
+| zèbre     | [zɛbʁ]                | [ɣɛb]                | zebra       |
+| dur       | [dzyʁ]                | [ɣyɣ]                | hard        |
+| soif      | [swaf]                | [xwax]               | thirst      |
+| fleur     | [flœʁ]                | [bœɣ]                | flower      |
+| salade    | [salad]               | [xawad]               | salad       |
+| bon       | [bɔ̃]                 | [bɔ̃]                 | good        |
+| cheveux   | [ʃəvœ]                | [xəbœ]                | hair        |
+| drapeau   | [dʁapo]               | [dabo]                | flag        |
+| musique   | [myzik]               | [myɣik]               | music       |
+| train     | [tʁɛ̃]                | [dɛ̃]                 | train       |
+| éléphant  | [elefã]               | [ejebã]               | elephant    |
+| plein     | [plɛ̃]                | [bɛ̃]                 | full        |
+| voiture   | [vwatsyʁ]             | [baɣyɣ]               | car         |
+| cloche    | [klɔʃ]                | [gɔx]                 | bell        |
+| nage      | [naʒ]                 | [naɣ]                 | swimming    |
+
 
 ```{=html}
 <!--
