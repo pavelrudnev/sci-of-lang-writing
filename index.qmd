@@ -31,9 +31,10 @@ The sound side of things:
 
 The visual side of things:
 
-- writing and its basic principles
-- writing systems
+-   writing and its basic principles
+-   writing systems
 
+```{=html}
 <!-- Putting it all together:
 
 -   sound/sign, writing, and language technology
@@ -41,6 +42,7 @@ The visual side of things:
 # Sign languages
 
 -->
+```
 
 # Writing
 
@@ -264,50 +266,35 @@ However, that is by far not always the case.
 
 ### Romanian old and new
 
-::: {.panel-tabset}
-
+::::: panel-tabset
 ### Contemporary Romanian
 
 ::: {style="font-size: smaller"}
-Tatăl nostru, Care ești 
-în ceruri, Sfinţească-se numele 
-Tău, Vie împărăţia Ta, Facă-se voia Ta,
-Precum în cer aşa şi pe pământ.
-Pâinea noastră cea de toate zilele
-Dă-ne-o nouă astăzi. Şi ne iartă nouă 
-greşelile noastre, Precum şi noi 
-iertăm greşiţilor noştri. Şi 
-nu ne duce pe noi în ispită, Ci ne 
-izbăveşte de cel rău.
+Tatăl nostru, Care ești în ceruri, Sfinţească-se numele Tău, Vie împărăţia Ta, Facă-se voia Ta, Precum în cer aşa şi pe pământ. Pâinea noastră cea de toate zilele Dă-ne-o nouă astăzi. Şi ne iartă nouă greşelile noastre, Precum şi noi iertăm greşiţilor noştri. Şi nu ne duce pe noi în ispită, Ci ne izbăveşte de cel rău.
 :::
 
 ### 19th-century Romanian
 
 ::: {style="text-align: center;"}
-![1786 Lord's Prayer](https://upload.wikimedia.org/wikipedia/commons/1/15/Tatal_Nostru_Acathist_1786.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original){ width=40% }
+![1786 Lord's Prayer](https://upload.wikimedia.org/wikipedia/commons/1/15/Tatal_Nostru_Acathist_1786.png?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=original){width="40%"}
 :::
-
-:::
+:::::
 
 ## Romance: Ladino
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ### Ladino (Hebrew script)
 
 טודוס לוס אומאנוס נאסין ליבריס אי איגואליס אין דיניידאד אי דיריטוס אי, קומו איסטאן איקיפאדוס די ראזון אי קונסאינסיה, דיבין קומפורטארסין קון אירמאנדאד לוס אונוס קון לוס אוטרוס.
 
 ### Ladino (Romanised version)
 
-Todos los umanos nasen libres i iguales en dinyidad i diritos i, komo estan ekipados de razon i
-konsensia, deven komportarsen kon ermandad los unos kon los otros.
-
+Todos los umanos nasen libres i iguales en dinyidad i diritos i, komo estan ekipados de razon i konsensia, deven komportarsen kon ermandad los unos kon los otros.
 :::
 
 ## Slavonic
 
-::: {.panel-tabset}
-
+::: panel-tabset
 ### Russian in Arabic script
 
 ![](https://sun9-28.vkuserphoto.ru/s/v1/ig2/U6OZHxTD9MF8VcAXBeG0L7D0AOmT3cvKtGJ_XlMQPzZXilNq9M61Psn3cyAUeuz4RQfuPp3_31GHe_xZGKy99oZh.jpg?quality=95&as=32x20,48x30,72x45,108x67,160x100,240x149,360x224,480x299,540x336,640x399,700x436&from=bu&cs=700x0)
@@ -315,7 +302,6 @@ konsensia, deven komportarsen kon ermandad los unos kon los otros.
 ### Same text in Cyrillic
 
 Прарок мувил: Ужо йа из сего сьвета зийду, тилко вам йеден дастамент адказуйу; посьле мене, майе тевариства, не разлучайцесе, у адном мейсцу пац вахтав немаз кланийцисе.
-
 :::
 
 ## Summary
@@ -325,6 +311,7 @@ konsensia, deven komportarsen kon ermandad los unos kon los otros.
 -   **Alphabets** encode individual sounds (English, Russian, Armenian, Greek, …)
 -   a lot of halfway, in-between systems (Arabic, Hebrew etc.)
 
+```{=html}
 <!-- # Overtime
 
 ## Articulation test
@@ -380,6 +367,7 @@ The results of an articulation test of a Canadian French-speaking child with def
 | nage      | [naʒ]                 | [naɣ]                 | swimming    |
 
 -->
+```
 
 # Decipherment of Sumerian
 
@@ -391,146 +379,153 @@ The results of an articulation test of a Canadian French-speaking child with def
 
 ## Method
 
-:::: {.columns}
-
+::::: columns
 ::: {.column width="50%"}
-
-* identify repeating symbols;
-* identify what language the text is in;
-* that's basically it
-* just joking, almost
+-   identify repeating symbols;
+-   identify what language the text is in;
+-   that's basically it
+-   just joking, almost
 :::
 
 ::: {.column width="50%"}
 ![](https://external-preview.redd.it/how-to-draw-an-owl-v0-N5EYxEzE55nFxJ9BuC1BjOo02HECir0lXsQ7Ko6NV38.png?auto=webp&s=a5b9d40f7f504cde59e6622c1c7f59201e63abcb)
 :::
-
-::::
-
+:::::
 
 ## Three basic steps
 
-* identify Language 1 as Persian;
-* identify Language 2 as Akkadian (Semitic);
-* identify Language 3 as neither one nor the other
-  * observe commonalities in writing and pronunciation
+-   identify Language 1 as Persian;
+-   identify Language 2 as Akkadian (Semitic);
+-   identify Language 3 as neither one nor the other
+    -   observe commonalities in writing and pronunciation
 
-# Sound, sign, writing, and language technology #
+# Sound, sign, writing, and language technology
 
-## Range of options ##
+## Range of options
 
-  * speech analysis/output
-  * text analysis/output
+-   speech analysis/output
+-   text analysis/output
 
-## Speech technology ##
+## Speech technology
 
-  * **A**utomatic **S**peech **R**ecognition (ASR)
-      * sound as input, text as output
-  * **T**ext-**t**o-**S**peech (TTS)
+-   **A**utomatic **S**peech **R**ecognition (ASR)
+    -   sound as input, text as output
+-   **T**ext-**t**o-**S**peech (TTS)
 
-## Text-based tech ##
+## Text-based tech
 
-  * text summarisation
-  * question answering
-  * machine translation
-  * …
-  
-## Cascaded architecture for speech i/o systems  
-  
-  ![](cascade-1.png)
-  
-## Speech vs. text: the ratio ##
+-   text summarisation
+-   question answering
+-   machine translation
+-   …
+
+## Cascaded architecture for speech i/o systems
+
+![](cascade-1.png)
+
+## Speech vs. text: the ratio
 
 Current language technology is predominantly text-based. Why?
 
-  * large quantities of data used to train langtech systems are collections of texts
-  * written language is easier for computational modelling
-      * it's discrete, segmented and neat, as opposed to the continuous non-segmented chaotic mess that is spoken language
+-   large quantities of data used to train langtech systems are collections of texts
+-   written language is easier for computational modelling
+    -   it's discrete, segmented and neat, as opposed to the continuous non-segmented chaotic mess that is spoken language
 
-## Text-based langtech: potential pitfalls ##
+## Text-based langtech: potential pitfalls
 
 No way to recover information that writing does not convey:
 
-  * intonation
-  * general tone of voice
-  * personal characteristics of speakers
-  * emotion
+-   intonation
+-   general tone of voice
+-   personal characteristics of speakers
+-   emotion
 
-  
-## Text-based langtech: potential pitfalls ##
+## Text-based langtech: potential pitfalls
 
 But also
 
-  * words that are written identically but are pronounced differently
-      * either for lexical reasons (*bow* being pronounced as [bəʊ] or [bɑʊ])
-      * or for grammatical reasons (*read* being pronounced as [riːd] or [rɛd], depending on the grammatical environment)
-      
-
+-   words that are written identically but are pronounced differently
+    -   either for lexical reasons (*bow* being pronounced as \[bəʊ\] or \[bɑʊ\])
+    -   or for grammatical reasons (*read* being pronounced as \[riːd\] or \[rɛd\], depending on the grammatical environment)
 
 ## Writing is always secondary to speech {.smaller}
-      
-  * both acquisitionally and historically
-      * languages can switch and have switched from one writing system to another — same message with zero similarity in form
-      * a written message is necessarily preceded/accompanied by a spoken/signed message that it represents
-  * majority of NLP systems *only* know about text
-      * if a language has multiple writing systems, a model exposed to all of them separately will have no way of knowing they represent the same language
 
-## End-to-end architecture for complex speech technology ##
+-   both acquisitionally and historically
+    -   languages can switch and have switched from one writing system to another — same message with zero similarity in form
+    -   a written message is necessarily preceded/accompanied by a spoken/signed message that it represents
+-   majority of NLP systems *only* know about text
+    -   if a language has multiple writing systems, a model exposed to all of them separately will have no way of knowing they represent the same language
+
+## End-to-end architecture for complex speech technology
 
 ![](e2e-1.png)
 
-## Beyond ASR/TTS: End-to-end sound i/o systems? ##
+## Beyond ASR/TTS: End-to-end sound i/o systems?
 
-  * [audio classification](https://huggingface.co/tasks/audio-classification)
-  * [Whisper](https://huggingface.co/openai/whisper-large-v3) can directly translate to English from sound input with no text mediation
-  * [HuBERT](https://arxiv.org/abs/2106.07447): self-supervised speech representation learning by masked prediction of hidden units
-  * [SeamlessM4T](https://huggingface.co/facebook/seamless-m4t-v2-large)
-  
-## More challenges? ##
+-   [audio classification](https://huggingface.co/tasks/audio-classification)
+-   [Whisper](https://huggingface.co/openai/whisper-large-v3) can directly translate to English from sound input with no text mediation
+-   [HuBERT](https://arxiv.org/abs/2106.07447): self-supervised speech representation learning by masked prediction of hidden units
+-   [SeamlessM4T](https://huggingface.co/facebook/seamless-m4t-v2-large)
 
-  * linguistic diversity
-      * accents
-          * regional accents
-          * foreign accents
-      * limited number of languages
+## More challenges?
 
-## What's the deal with accents? ##
+-   linguistic diversity
+    -   accents
+        -   regional accents
+        -   foreign accents
+    -   limited number of languages
+
+## What's the deal with accents?
 
 Let's briefly consider **merged vowels/vowel mergers** in different varieties of English.
 
-  * *cot--caught* merger
-  * *trap--bath* merger
-  
-## /ɒ/ and /ɔː/  in North America ##
+-   *cot--caught* merger
+-   *trap--bath* merger
+
+## /ɒ/ and /ɔː/ in North America
 
 ::: {style="text-align: center;"}
-
-![_Cot_ vs. _caught_ merger](http://i.imgur.com/g2rEZAL.png){ width=65% } 
+![*Cot* vs. *caught* merger](http://i.imgur.com/g2rEZAL.png){width="65%"}
 :::
-
 
 # Overtime
 
 ## Chinese writing {.smaller}
 
-::: {.panel-tabset}
+::::: panel-tabset
+### Task
 
-### Task 
-
+::: smaller
 Given are words in modern standard Chinese and their translations into English in a mixed order.
 
-* [午饭, 桌子, 橙子, 下午, 上海, 橙色, 上午, 饭桌, 红色, 咖啡, 饭馆, 吃饭]{lang=zh}
-* orange colour, to eat (to have a meal), dining table, table, coffee, orange (fruit), red colour, Shanghai (literally ‘upper sea’), evening (second half of the day), restaurant, lunch (meal), morning (first half of the day)
+-   [午饭, 桌子, 橙子, 下午, 上海, 橙色, 上午, 饭桌, 红色, 咖啡, 饭馆, 吃饭]{lang="zh"}
+-   orange colour, to eat (to have a meal), dining table, table, coffee, orange (fruit), red colour, Shanghai (literally ‘upper sea’), evening (second half of the day), restaurant, lunch (meal), morning (first half of the day)
 
 #### Task 1. Establish the correct correspondences.
 
-#### Task 2. Translate from Chinese: [咖啡馆, 咖啡色.]{lang=zh}
+#### Task 2. Translate from Chinese: [咖啡馆, 咖啡色.]{lang="zh"}
 
-#### Task 3. What role do you think the character [子]{lang=zh} plays in the words in the prompt?
+#### Task 3. What role do you think the character [子]{lang="zh"} plays in the words in the prompt?
 :::
 
-## Acknowledgement ##
+### Answers
+
+::: scrollable
+-   [午]{style="color: teal;"}[饭]{style="color: red;"} — lunch ([day]{style="color: teal;"} [food]{style="color: red;"})
+-   [桌]{style="color: green;"}子 — table
+-   [橙]{style="color: orange;"}子 — [orange]{style="color: orange;"} (fruit)
+-   下[午]{style="color: teal;"} — evening (‘lower [day]{style="color: teal;"}’)
+-   [上]{style="color: purple;"}海 — Shanghai (‘[upper]{style="color: purple;"} sea’)
+-   [橙]{style="color: orange;"}[色]{style="color: gray;"} — [orange]{style="color: orange;"} [colour]{style="color: gray;"}
+-   [上]{style="color: purple;"}[午]{style="color: teal;"} — morning (‘[upper]{style="color: purple;"} [day]{style="color: teal;"}’)
+-   [饭]{style="color: red;"}[桌]{style="color: green;"} — dining ([food]{style="color: red;"}) [table]{style="color: green;"}
+-   红[色]{style="color: gray;"} — red [colour]{style="color: gray;"}
+-   咖啡 — coffee
+-   [饭]{style="color: red;"}馆 — restaurant (‘[food]{style="color: red;"} place’)
+-   吃[饭]{style="color: red;"} — eat (‘take [food]{style="color: red;"}’)
+:::
+:::::
+
+## Acknowledgement
 
 Thanks to Lisa Bylinina for making her excellent teaching materials publicly available.
-
-
