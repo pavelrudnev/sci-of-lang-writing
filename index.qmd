@@ -510,7 +510,7 @@ Given are words in modern standard Chinese and their translations into English i
 
 ### Answers
 
-::: scrollable
+::: {.scrollable}
 -   [午]{style="color: teal;"}[饭]{style="color: red;"} — lunch ([day]{style="color: teal;"} [food]{style="color: red;"})
 -   [桌]{style="color: green;"}子 — table
 -   [橙]{style="color: orange;"}子 — [orange]{style="color: orange;"} (fruit)
