@@ -3,6 +3,7 @@ author:
   name: Pavel Rudnev
   affiliation: HSE University
   email: prudnev@hse.ru
+  orcid: 0000-0001-8554-0943
 title: Introduction to the science of language
 subtitle: Writing
 format:
@@ -87,7 +88,7 @@ In fact, writing is a (legacy) language technology of sorts!
 
 Do you agree with the following differences? Feel free to disagree!
 
-::: {style="font-size: smaller"}
+
 |      speech       |     writing      |
 |:-----------------:|:----------------:|
 |    continuous     |     discrete     |
@@ -96,7 +97,7 @@ Do you agree with the following differences? Feel free to disagree!
 |      audible      |     visible      |
 | produced by voice | produced by hand |
 |                   |                  |
-:::
+
 
 Can you think of more differences?
 
@@ -269,9 +270,9 @@ However, that is by far not always the case.
 ::::: panel-tabset
 ### Contemporary Romanian
 
-::: {style="font-size: smaller"}
+
 Tatăl nostru, Care ești în ceruri, Sfinţească-se numele Tău, Vie împărăţia Ta, Facă-se voia Ta, Precum în cer aşa şi pe pământ. Pâinea noastră cea de toate zilele Dă-ne-o nouă astăzi. Şi ne iartă nouă greşelile noastre, Precum şi noi iertăm greşiţilor noştri. Şi nu ne duce pe noi în ispită, Ci ne izbăveşte de cel rău.
-:::
+
 
 ### 19th-century Romanian
 
@@ -448,7 +449,7 @@ But also
     -   either for lexical reasons (*bow* being pronounced as \[bəʊ\] or \[bɑʊ\])
     -   or for grammatical reasons (*read* being pronounced as \[riːd\] or \[rɛd\], depending on the grammatical environment)
 
-## Writing is always secondary to speech {.smaller}
+## Writing is always secondary to speech 
 
 -   both acquisitionally and historically
     -   languages can switch and have switched from one writing system to another — same message with zero similarity in form
